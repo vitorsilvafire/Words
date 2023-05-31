@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    A: ,
+    B: ,
+    C: ,
+    D: ,
+    E: ,
+
+    N: ,
+    O:
+    P: ,
+    Q:
+    R: ,
+    S: ,
+    T: ,
+    U:
+    V:
+    W: ,
+    X:
+    Y:
+    Z:
+    <string-array name="words">
+        <item>América-MG</item>
+        <item>Bahia</item>
+        <item>Corinthians</item>
+        <item>Democrata</item>
+        <item>Espanha</item>
+        <item>Flamengo</item>
+        <item>Grêmio</item>
+        <item>Holanda</item>
+        <item>Internacional</item>
+        <item>Juventude</item>
+        <item>Kosovo</item>
+        <item>Liverpool</item>
+        <item>Marrocos</item>
+        <item>New york City</item>
+        <item>Olympique Lyon</item>
+        <item>Palmeiras</item>
+        <item>Qarabag</item>
+        <item>Red Bull Bragantino</item>
+        <item>São Paulo</item>
+        <item>Talleres</item>
+        <item>Uganda</item>
+        <item>Vitória</item>
+        <item>Wolfsburg</item>
+        <item>Xv de jaú</item>
+        <item>Yalmakan</item>
+        <item>ZFK Spartak</item>
+
+    </string-array>
+
+</resources>
